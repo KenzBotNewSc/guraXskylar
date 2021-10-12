@@ -322,8 +322,7 @@ exports.groupMenu = (prefix) => {
 ┃➥ *Penggunaan* : *#tagall*
 ┃
 ┣➤ *#grup*
-┃➥ *Fungsi* : Mematikan/menyalakan 
-┃mode NSFW.
+┃➥ *Fungsi* : Membuka/menutup group
 ┃➥ *Penggunaan* : *grup* [buka/tutup] 
 ┃
 ┣➤ *#setppgrup*
