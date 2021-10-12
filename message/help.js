@@ -380,7 +380,7 @@ exports.downloadMenu = (prefix) => {
 ┃➥ *Fungsi* : Info dan direct link media
 ┃➥ *Penggunaan* : *#mediafire* _*Link*_
 ┃
-┣➤*#play*
+┣➤ *#play*
 ┃➥ *Fungsi* : search YouTube audio
 ┃➥ *Penggunaan* : *#play* _*tajuk*_
 ┃
